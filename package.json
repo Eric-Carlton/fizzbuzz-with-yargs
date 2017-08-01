@@ -1,0 +1,15 @@
+{
+  "name": "fizzbuzz-with-yargs",
+  "version": "1.0.0",
+  "description": "Implementation of FizzBuzz that uses yargs for processing command line arguments",
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/Eric-Carlton/fizzbuzz-with-yargs"
+  },
+  "main": "index.js",
+  "author": "eric121492@gmail.com",
+  "license": "MIT",
+  "dependencies": {
+    "yargs": "^8.0.2"
+  }
+}
